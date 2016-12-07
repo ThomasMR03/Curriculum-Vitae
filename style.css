@@ -1,0 +1,75 @@
+<style type="text/css">
+
+body {
+	margin: 10px auto;
+}
+
+article {
+	width: 720px;
+	background-color: white;
+	padding: 0;
+	margin: 20px auto;
+	border: 1px grey solid;
+}
+
+header {
+	padding: 20px;
+	background-color: #EAEAEA;
+	color: white;
+	text-align: center;
+}
+
+#Nom_Prénom {
+	text-align: left;
+	color: black;
+	margin: 10px;
+	line-height: 5px;
+}
+
+#Age {
+	text-align: left;
+	color: black;
+	margin: 10px;
+	line-height: 5px;
+}
+
+#Adresse {
+	text-align: left;
+	color: black;
+	margin: 10px;
+	line-height: 5px;
+}
+
+#Contact {
+	text-align: left;
+	color: black;
+	margin: 10px;
+	line-height: 5px;
+}
+
+th {
+	text-align: center;
+	background-color: #EAEAEA;
+	padding: 10px;
+	margin: 0;
+}
+
+table {
+	width: 100%;
+	border-spacing: 0;
+	margin: 20px 0;
+	padding: 0;
+	border: 1px solid #CCC;
+}
+
+ul {
+	width: 100%;
+	margin: 10px;
+}
+
+#Information{
+	color: #CCC;
+ 	font-size: 0.9em;
+ 	line-height: 5px;
+ 	font-style: italic;
+}
