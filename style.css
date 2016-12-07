@@ -73,3 +73,23 @@ ul {
  	line-height: 5px;
  	font-style: italic;
 }
+
+#Parcours {
+	margin: 20px;
+}
+
+#Formation {
+	margin : 20px;
+}
+
+#Loisir {
+	margin: 20px;
+}
+
+#Qualités {
+	margin: 20px;
+}
+
+#Ligne {
+	line-height: 5px;
+}
