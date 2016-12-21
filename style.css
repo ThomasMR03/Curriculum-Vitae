@@ -1,7 +1,6 @@
-<style type="text/css">
-
 body {
 	margin: 10px auto;
+	display: flex;
 }
 
 article {
@@ -14,7 +13,7 @@ article {
 
 header {
 	padding: 20px;
-	background-color: #EAEAEA;
+	background-color: #1E7FCB;
 	color: white;
 	text-align: center;
 }
@@ -22,28 +21,28 @@ header {
 #Nom_Prénom {
 	text-align: left;
 	color: black;
-	margin: 10px;
+	margin: 20px;
 	line-height: 5px;
 }
 
 #Age {
 	text-align: left;
 	color: black;
-	margin: 10px;
+	margin: 20px;
 	line-height: 5px;
 }
 
 #Adresse {
 	text-align: left;
 	color: black;
-	margin: 10px;
+	margin: 20px;
 	line-height: 5px;
 }
 
 #Contact {
 	text-align: left;
 	color: black;
-	margin: 10px;
+	margin: 20px;
 	line-height: 5px;
 }
 
@@ -68,7 +67,7 @@ ul {
 }
 
 #Information{
-	color: #CCC;
+	color: #1E7FCB;
  	font-size: 0.9em;
  	line-height: 5px;
  	font-style: italic;
@@ -92,4 +91,8 @@ ul {
 
 #Ligne {
 	line-height: 5px;
+}
+
+#Ls {
+	margin-left: 170px;
 }
